@@ -6,7 +6,7 @@ Unity kullanılarak geliştirilmiş ve WebGL üzerinden tarayıcıda oynanabilir
 
 <a href="https://buseyyy.github.io/kodupark1/">
   <img 
-    src="https://github.com/user-attachments/assets/358c785f-0085-4ca8-a209-5e92266b7174" 
+    src="https://buseyyy.github.io/KoduPark-Build/" 
     width="350"
     alt="KoduPark WebGL"
   />
