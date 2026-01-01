@@ -4,9 +4,9 @@ KoduPark, çocuklar için tasarlanmış blok tabanlı kodlama için eğitici ve 
 Unity kullanılarak geliştirilmiş ve WebGL üzerinden tarayıcıda oynanabilir hale getirilmiştir.
 
 
-<a href="https://buseyyy.github.io/KoduPark-Build/">
+<a href="https://buseyyy.github.io/Kodupark-Build/">
   <img 
-    src="https://github.com/user-attachments/assets/358c785f-0085-4ca8-a209-5e92266b7174" 
+    src="https://github.com/user-attachments/assets/661d6e46-1a23-4b76-9303-7d8997b50dd2/>" 
     width="350"
     alt="KoduPark WebGL"
   />
